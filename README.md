@@ -6,13 +6,13 @@
 Pre-Requirements 🛠
 
 
-1/ Install Python and Other Tools
+✅Install Python and Other Tools
 
 
-2/ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof
+1/ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof
 
 
-3/ python3 --version
+2/ python3 --version
 
 ----------------------------------------------------------------------------------------------
 
