@@ -9,25 +9,25 @@ Pre-Requirements 🛠
 ✅Install Python and Other Tools
 
 
-1/ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof
+1️⃣ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof
 
 
-2/ python3 --version
+2️⃣ python3 --version
 
 ----------------------------------------------------------------------------------------------
 
 Install Node.js , npm & yarn 🤖
 
 
-1/ curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt update && sudo apt install -y nodejs
+1️⃣ curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt update && sudo apt install -y nodejs
 
 ✅Install Yarn (linux)
 
-2/ curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+2️⃣ curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
 
-3/ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list > /dev/null
+3️⃣ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list > /dev/null
 
-4/ sudo apt update && sudo apt install -y yarn
+4️⃣ sudo apt update && sudo apt install -y yarn
 
 Check version ✔️
 
@@ -40,23 +40,21 @@ yarn -v
 Start The Node 🎬
 
 
-1️⃣ Create a screen session (vps only)
 
-screen -S gensyn
-2️⃣ Clone RL-SWARM Repo
+1️⃣ Clone RL-SWARM Repo
 
 git clone https://github.com/gensyn-ai/rl-swarm.git
 
-3️⃣ Navigate to rl-swarm
+2️⃣ Navigate to rl-swarm
 
 cd rl-swarm
 
-4️⃣ Create & Activate a Virtual Environment
+3️⃣ Create & Activate a Virtual Environment
 
 python3 -m venv .venv
 source .venv/bin/activate
 
-5️⃣ Run the swarm Node
+4️⃣ Run the swarm Node
 ./run_rl_swarm.sh
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -84,11 +82,12 @@ Now It will promt >> Would you like your model to participate in the AI Predicti
 
 ⛩️ How To start the Next Day 
  
- 1/ cd rl-swarm
-2/ python3 -m venv .venv
+1️⃣ cd rl-swarm
+
+2️⃣ python3 -m venv .venv
 source .venv/bin/activate
 
-3/ ./run_rl_swarm.sh
+3️⃣ ./run_rl_swarm.sh
 
 
 
