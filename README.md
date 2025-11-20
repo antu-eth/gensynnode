@@ -20,7 +20,8 @@ Install Node.js , npm & yarn 🤖
 
 
 1/ curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt update && sudo apt install -y nodejs
-Install Yarn (linux)
+
+✅Install Yarn (linux)
 
 2/ curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
 
