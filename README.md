@@ -1,6 +1,6 @@
 🖥️ Gensyn-ai-Rl-Swarm_Guide {Linux}
 
-
+-----------------------------------
 
 
 Pre-Requirements 🛠
@@ -14,7 +14,7 @@ Pre-Requirements 🛠
 
 3/ python3 --version
 
-
+----------------------------------------------------------------------------------------------
 
 Install Node.js , npm & yarn 🤖
 
@@ -34,7 +34,7 @@ node -v
 npm -v
 yarn -v
 
-
+---------------------------------------------------------------------------------------------------------
 
 Start The Node 🎬
 
@@ -58,7 +58,7 @@ source .venv/bin/activate
 5️⃣ Run the swarm Node
 ./run_rl_swarm.sh
 
-
+----------------------------------------------------------------------------------------------------------------------------
 ⚠️
 
 
@@ -71,14 +71,14 @@ Now It will promt >> Enter the name of the model you want to use in huggingface 
 Now It will promt >> Would you like your model to participate in the AI Prediction Market? [Y/n] Enter Y
 
 
-
+-------------------------------------------------------------------------------------------------------
 
 ⚠️ Save your swarm.pem file (for future login)
 
 
 
 
-
+-----------------------------------------------------------------------------------------------------
 
 
 ⛩️ How To start the Next Day 
