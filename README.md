@@ -92,7 +92,50 @@ source .venv/bin/activate
 
 
 
+------------------------------------------------------------------------------------------
 
+
+
+
+🎉 You're All Set!
+
+You now have a fully working Gensyn RL-Swarm Node running on Linux.
+By staying online and active, you help strengthen decentralized AI compute and contribute directly to the future of open AI training.
+
+If you found this guide helpful, feel free to:
+
+⭐ Star the repository
+📬 Share improvements or PRs
+🐛 Open an issue if you face any errors
+🚀 Stay connected with the Gensyn community
+
+🙌 Contribution & Support
+
+This guide will continue improving based on community feedback.
+Pull Requests, optimizations, and new discoveries are always welcome.
+
+For any support:
+
+Join Gensyn community chats
+
+Read the official docs
+
+Or simply raise an issue here on GitHub
+
+🔗 Keep Building. Keep Contributing.
+
+Decentralized AI is the future — and you're helping build it.
+
+
+
+
+✅ My Social Links
+
+#️⃣ YouTube link:- https://www.youtube.com/@antu_eth
+
+#️⃣ X (Twitter) link :- https://x.com/AnTu_eth
+
+#️⃣ Discord User :- @antu_eth
 
 
 
